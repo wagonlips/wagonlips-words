@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('good feelings dreaming with, | their mathematical philosophy drawn to the psychic myth; cerebral things, bad-things, | things psychological,')
+status = api.PostUpdate('un-thinkable, | extraneous, curious, ... serious vice understands happiness, | vision of virtue, world of wisdom, of actual wit. Their truly')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
