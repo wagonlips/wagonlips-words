@@ -1,0 +1,293 @@
+for i in chunk*; do tempname=`echo $i | sed 's/\b[[:digit:]]\{2\}\b/0&/'`; mv $i $tempname; done
+for i in chunk*; do tempname=`echo $i | sed 's/\b[[:digit:]]\{1\}\b/00&/'`; mv $i $tempname; done
+>>> with open(r"/home/sean/Documents/text-blobs/brothers-001") as infile:
+...     data = infile.read()
+...     myblob = TextBlob(data)
+b2> (x26) <climagic> ssh -t you@homeaddr 'ssh you@192.168.1.5' # In one command, ssh to an internal host on your private network through a gateway host.
+
+k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', '65', '65')
+import twitter
+
+
+status = api.PostUpdate('forget them, place-perplexing memories. For love | their moment has been, their truth is at an advantage, absolute or acute, all uttered, in')
+
+glute bridges, 4 point kneels and side planks on your knees.
+
+Flat 18C New Mansion 2-8 New Street Sheung Wan Hong, Kong
+
+"Horrible secrets so shameful show less..."
+          ^       ^| ^^       ^^| 
+          Extended alliteration
+
+"Discoveries in science are made only by near-sighted specialists, while
+the influence of public sentiment and policy still works systematically
+against enlightenment."
+--George Santayana, The Life of Reason
+          
+"As legend becomes in a few generations preposterous
+myth, so history, after a few rehandlings and condensations, becomes
+unblushing theory."
+--George Santayana, The Life of Reason
+
+"stimulated artificially, and applied from without; so that art becomes a
+sickly ornament for an ugly existence."
+--George Santayana, The Life of Reason
+
+"There! and your sweetest sendings, ah divine,
+ By it, heavens, befall him! as a heart Christ’s darling, dauntless;
+        Tongue true, vaunt- and tauntless;
+ Breathing bloom of a chastity in mansex fine.
+ 
+ Frowning and forefending angel-warder
+ Squander the hell-rook ranks sally to molest him;
+        March, kind comrade, abreast him;
+ Dress his days to a dexterous and starlight order."
+--Gerard Manley Hopkins, The Bugler’s First Communion
+          
+"As to the word "God," all mutual understanding is impossible.          
+--George Santayana, The Life of Reason
+
+"Absolute language a possible but foolish art."
+--George Santayana, The Life of Reason
+          
+Discipline is the acquired faculty of surrendering an immediate personal good 
+for the sake of a remote and impersonal one of greater value. 
+--George Santayana, The Life of Reason
+
+The true philosopher [...] must be
+prepared to tread the winepress alone.
+--George Santayana, The Life of Reason
+
+Knowledge... is a salutation, not an embrace.
+--George Santayana, The Life of Reason
+
+The intelligible, however, lies at the periphery of experience, the surd at its core; 
+and intelligence is but one centrifugal ray darting from the slime to the stars.
+--George Santayana, The Life of Reason
+
+Twenty-six letters may suffice for a language, but they are a wretched minority 
+among all possible sounds.
+--George Santayana, The Life of Reason
+
+Protoplasmic pleasures
+--George Santayana, The Life of Reason
+
+The great difficulty in education is to
+get experience out of ideas.
+--George Santayana, The Life of Reason
+
+To call results their own causes is always preposterous.
+--George Santayana, The Life of Reason
+
+A great imaginative apathy has fallen on the
+mind. One-half the learned world is amused in tinkering obsolete armour,
+as Don Quixote did his helmet; deputing it, after a series of
+catastrophes, to be at last sound and invulnerable. 
+--George Santayana, The Life of Reason
+
+CECILY.  Well, I know, of course, how important it is not to keep a
+business engagement, if one wants to retain any sense of the beauty of
+life...
+--Oscar Wilde, The Importance of Being Ernest
+
+LORD GORING.  Never mind what I say, Robert!  I am always saying what I
+shouldn’t say.  In fact, I usually say what I really think.  A great
+mistake nowadays.  It makes one so liable to be misunderstood. 
+--Oscar Wilde, An Ideal Husband
+
+They can discover everything except the obvious.
+--Oscar Wilde, An Ideal Husband
+
+_He is fond of being misunderstood_.  
+_It gives him a post of vantage_
+--Oscar Wilde, An Ideal Husband
+
+Oh, I hate the cheap severity of abstract ethics!
+--Oscar Wilde, The Canterville Ghost
+
+LADY WINDERMERE.  Don’t say that, Arthur.  There is the same world for
+all of us, and good and evil, sin and innocence, go through it hand in
+hand.  To shut one’s eyes to half of life that one may live securely is
+as though one blinded oneself that one might walk with more safety in a
+land of pit and precipice.
+--Oscar Wilde, Lady Windermere's Fan
+
+Actions are the first tragedy in life, words are
+the second.  Words are perhaps the worst.  Words are merciless. . . . Oh!
+--Oscar Wilde, Lady Windermere's Fan
+
+LORD DARLINGTON.  What cynics you fellows are!
+CECIL GRAHAM.  What is a cynic?  [_Sitting on the back of the sofa_.]
+LORD DARLINGTON.  A man who knows the price of everything and the value
+  of nothing.
+CECIL GRAHAM.  And a sentimentalist, my dear Darlington, is a man who
+  sees an absurd value in everything, and doesn’t know the market price of
+  any single thing.
+--Oscar Wilde, Lady Windermere's Fan
+
+In this world there are only two tragedies. One is not getting what one wants, 
+and the other is getting it. The last is much the worst; the last is a real tragedy!
+--Oscar Wilde, Lady Windermere's Fan
+
+But there are moments when one has to choose between living one’s own life, fully, 
+entirely, completely--or dragging out some false, shallow, degrading existence 
+that the world in its hypocrisy demands. 
+--Oscar Wilde, Lady Windermere's Fan
+
+DUMBY.  I am [a mystery] -—to myself.  I am the only person in the world I should like
+to know thoroughly; but I don’t see any chance of it just at present.
+--Oscar Wilde, Lady Windermere's Fan
+
+LORD ILLINGWORTH:  One should never take sides in anything, Mr. Kelvil.
+Taking sides is the beginning of sincerity, and earnestness follows
+shortly afterwards, and the human being becomes a bore. 
+--Oscar Wilde, A Woman of No Importance
+
+Love is better than wisdom, and more precious
+than riches, and fairer than the feet of the daughters of men. 
+--Oscar Wilde, A House of Pomegranates 
+
+
+There is no reason that the sentimentalist should be asked to
+interfere. He always does harm. He culminates at his starting point. His
+end, as his origin, is an emotion.
+--Oscar Wilde, Children in Prison 
+
+We are each our own devil, and we make
+This world our hell.
+--Oscar Wilde, The Duchess of Padua
+   
+Suffer me not to see another sun
+Light up the misery of this loathsome world.
+--Oscar Wilde, The Duchess of Padua
+
+with open(r"/home/sean/Documents/text-blobs/padua/padua000") as infile:
+data = infile.read()
+myblob = TextBlob(data)
+
+The Hysterical Woman Kept 1 Lawyer In Your Paper Mouth With 7 Clerks & 3 Spirits
+
+You'll be knocked down
+Not with a bang but a whimper
+All your works are gone
+Nothing but smoke and vapor
+
+You know
+You see
+You feel... (nothing<--[whispered])
+
+The dawn awakes
+The day is long
+The noise is loud
+And so you sing your damn song
+
+You work your life
+You make your way
+You trade your sweat 
+For another day's pay
+
+You check the box
+You make your mark
+You seek the light
+But you die in the dark
+
+Strength turns to dust
+
+Love first becomes
+A memory
+Then it fades to dust
+And then you're finally free
+
+You fear
+Your doom
+You die... (alone<--[whispered])
+
+You'll be knocked down
+Not with a bang but a whimper
+All your dreams are gone
+Nothing but smoke and vapor
+
+I can't remember what the hell I was going to put here...
+
+(instruments)
+
+my_consumer_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+my_consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+my_access_token_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+my_access_token_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+
+The sin we had done once with loathing we would do many times with joy.
+The curtain went down on a titter and some groans.
+What was youth at best? A green, an
+ unripe time, a time of shallow moods, and sickly thoughts. -- The Picture of Dorian Gray, Oscar Wilde
+
+We Might Not Have Time 5^7 If You Want To Play It That Way
+
+ftp://ftp.mancubus.net/pub/.1/idgames/idstuff/hexen/mac/MacHexenDemo.hqx
+
+giggly hates ** jack-in-the-box ** loves chubby
+chubby hates **     poppet      ** loves weepy
+
+fnordtangalapoonkazampshoomoocat
+
+XYZ: 2865 62 418
+XYZ: 1931 79 1895
+
+The narrative was already under way when I came across it in the dark recesses of my mind.
+At first it paid me no mind, just carried on as if it didn't know I was there.
+And then it seemed bothered by my presence, as if it had some right to natter on in privacy. 
+Turning its back on me, it inserted a derisive phrase or two, never faltering in its rambling,
+but making its message clear: "Buzz off." But this was my head, mine! And I wasn't about to let
+some half-assed revery take over, was I? I couldn't just let this rogue screed run roughshod 
+across the wood planks of the theater of my mind. So I hunkered down and checked it out. 
+I carefully perused it, and I wasn't impressed. I wasn't impressed at all. It was a
+silly narrative with an embarrassment of asides, none of which had any relevance to anything 
+important, each one would be a derailment of the main thread, if only there had been a main 
+thread. It had a motley crew of unlikable characters milling about and never coming to much. 
+It was so saturated with cliche phrases hardly a sentence could finish without tripping over 
+some sort of hackneyed clap-trap. And it completely lacked conflict. Nothing was happening 
+at all. It just went on and on like the noise of the freeway. And like freeway noise, this 
+narrative had a dark undertone, a sort of creeping banality that you felt in your bones that 
+would certainly, inevitably lead to some sort of anti-spectacular fatality, 
+'death by boredom' would be the cause. 
+
+
+But it's more than that. We have dinner all the time without desert. Desert's not that big
+of a deal. But the orgasm, that's a big deal. I dragged my wife to a therapist once, well
+more than once, but... this particular therapist said that the orgasm was not the "be all, 
+end all." What a jerk. I think he was simply taking my wife's side in the discussion because
+her body language was making it seem like I've been beating her down on this issue. But it
+might also be that he simply sucks at sex. But if the orgasm isn't the "be all, end all" of
+sex, then what is?
+
+The orgasm is more than just the ending, it's the primary driving factor of the entire act.
+We are animals and this is how our reproductive mechanisms work. Insert pointy thing into
+moist hole, apply friction, transfer genes. Simple. Human culture has for millenia focussed 
+on the differences between man and woman, but honestly they're minor. We all have the same
+blood in us, same number of limbs, fingers, toes. We all eat the same food which we all 
+convert into the same sort of poop. Any creature not of the human species would be able to 
+tell us apart about as well as we can differentiate male from female hamsters, or bugs. And
+so my point is we're not that different. The idea that this act should favor one sex or the
+other is an odd one. If one of us can have an orgasm, then the other one can, too. Simple.
+
+If you're religious you
+probably have some crazy, guilty ideas about why it feels good. And that's cool. Guilt can
+be fun, as long as you're not persecuting others because of your own kooky beliefs. But all
+that really matters is that it does feel good. Let's call it the happy coincidence. It 
+feels great, but it comes with some caveats: may lead to conception
+and is an excellent vector for disease. Let's call those the mixed coincidence and the
+unhappy coincidence. We can and should take measures to mitigate the mixed and unhappy
+coincidences; we cannot make them go away entirely but if we're careful the risks they present
+are no greater than other risks we suffer every day in normal life. That leaves one thing:
+happiness. Arguably the greatest happiness that can be had in this world for the least 
+amount of work. It is available to people of all stripes, creeds and dispositions and it
+requires no financial investment at all. The only investment any of us have to make to enjoy
+sex is that we take a risk. If you're going solo, you may risk being discovered. To enjoy
+sex with a partner, you risk being hurt in some way. 
+
+And that's actually a really big risk. What started out as a bit of fun is now life-threatening.
+ 
+it takes away the majority of the investment and nearly all of the vulnerability. And 
+that's the part that I miss the most. Making oneself vulnerable, to me, is what sex is all
+about. We call the orgasm the "little death," and therefore the sex act is kind of like
+murder. But if you don't have an orgasm yourself, you can only be guilty of manslaughter.
