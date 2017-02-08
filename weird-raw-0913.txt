@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('still, but in strange and logical man?-So, the locus to our own sophism is granted, so fixed to our part, to bodily want when our mere moral')
+status = api.PostUpdate('but simply be, but does that secret- we know but be, but that we well understand; where the gift of what is given is not grasped, wit though')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
