@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('hypocrites, maxims, and secret judgments, passions-things, truths- almost whole, with a wisdom, with a wisdom, a value unto venerable virtue')
+status = api.PostUpdate('and joyful with knowing, immortal souls, science in fires and minds, more, fostered iniquity and suffered the policy. ANTICIPATE, instigate,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
