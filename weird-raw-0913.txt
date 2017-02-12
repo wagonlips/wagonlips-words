@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('all this art? The heart of the cohesion of living in the nothing of ideal myth. Influences, amid affinities, among harmonies, little things,')
+status = api.PostUpdate('preach the possessing power; rather, a fertile fruit is always best; the logical marks too have given their test. What will be their part in')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
