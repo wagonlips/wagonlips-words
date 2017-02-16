@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('preach the possessing power; rather, a fertile fruit is always best; the logical marks too have given their test. What will be their part in')
+status = api.PostUpdate('is so spiritual as imagination- when dreams of things being still more or less physical, alien stars feel temporal touches, and truth beyond')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
