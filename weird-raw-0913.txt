@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('Nature\'s passion for far-reaching functions, added task into taste, laws from common, simply loathsome foundations. And ever, for artificial')
+status = api.PostUpdate('await in dreams prenatal?- Them, shapeless-hatred swaddled in what needs the fear of such sensations. Still farthest fleeting truth of Noble')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
