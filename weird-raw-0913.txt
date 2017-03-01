@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('light; Be, live the arts of organic moments. What\'s rational? Eulogist Epicurus mild: The sacred-solemn Cyrenaic philosopher Hegesias comes,')
+status = api.PostUpdate('WHO live for finitude, who look for reason before the soul, myth, or mission, and crudely keep afoot their men of mercy against, yet without')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
