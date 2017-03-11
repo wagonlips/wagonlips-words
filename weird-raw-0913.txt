@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('time | knows language. Endless! The apprehension, a delusion! Embrace art\'s groping, | ancient eyes, perception. Beyond our mythical madness')
+status = api.PostUpdate('false his illusion, | his method on men, is true! An argument is of an event, all is in an ephemeral idealism. Romantic and valid | physics!')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
