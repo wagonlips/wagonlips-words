@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('guilty reason, is guilty reason. They are indeed real, Karma, if we rely on justice, and, man, if destiny is real, what must virtues\' truths')
+status = api.PostUpdate('time | knows language. Endless! The apprehension, a delusion! Embrace art\'s groping, | ancient eyes, perception. Beyond our mythical madness')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
