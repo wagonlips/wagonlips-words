@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('was involved in it. Truth secured, | confusion\'s data happens. But hold its fallen, tempted | to them, their darkest attitude called man, so')
+status = api.PostUpdate('stand; they settle on problems. From conviction, from inability, | upon whether the way renders, principles of metaphysics in great | places')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
