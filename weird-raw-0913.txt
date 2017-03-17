@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('pure knowledge, we admit convinced, arrive certain; proceed to nature and while there, leave objects space-room. Copernicus finds truth when')
+status = api.PostUpdate('beyond our hypothesis, mere objects in their nothing can give or power can take power\'s all-in-all in all a lot of soul. Time, space; attain')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
