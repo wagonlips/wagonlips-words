@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('Galilei seeks hope; their law\'s not broke, see us; a dark condition, a reason-as laws before questions-intuitions a common matter. Cognition')
+status = api.PostUpdate('pure knowledge, we admit convinced, arrive certain; proceed to nature and while there, leave objects space-room. Copernicus finds truth when')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
