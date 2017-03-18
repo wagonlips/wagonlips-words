@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('beyond our hypothesis, mere objects in their nothing can give or power can take power\'s all-in-all in all a lot of soul. Time, space; attain')
+status = api.PostUpdate('phenomenal, sensible; not prove this possible reason, a possible reason constructed new. We invent dogmatism we can no more prove by groping')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
