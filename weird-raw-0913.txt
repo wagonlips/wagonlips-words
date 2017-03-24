@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('take time, and attach. Raw purpose holds with these, and, these away, fall. Sensuous doubt\'s judgement, knowledge tests our cases of plainly')
+status = api.PostUpdate('matter\'s proposition slips or time\'s shape happens. This to find the content, thought derived, consists of a reason. QUESTION, great reason!')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
