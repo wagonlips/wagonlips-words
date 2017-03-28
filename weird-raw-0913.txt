@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('now is the conception in a human union? No, but in all units we can find cause of see and sums. Only what question the true sum implies pure')
+status = api.PostUpdate('and things are yet beginning and we satisfied our easy ending, bosom and branch. Man, whose other doubtful gain shows, range of our dogmatic')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
