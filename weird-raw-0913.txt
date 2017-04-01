@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('deduce in a known, a conception, constitution; an abstraction will agree then speak, then say, remain with. Intuition asserted 'No thinking!')
+status = api.PostUpdate('intuitions, thus deduce, reality. But which, where were they lying? Brevity, power of one, what is our position? We conclude, then instruct;')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
