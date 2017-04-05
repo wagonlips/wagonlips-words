@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('of science and space. What do then? admit reality? | Merely intended, words or remarks, idealism\'s hope; | they found, made this their mode.')
+status = api.PostUpdate('consider | doubt or empty fact, Time presents: Assert what is | rain\'s question, all was lost; doctrine\'s subjective senses. Marks | objects')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
