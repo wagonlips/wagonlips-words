@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('what we do is delusion: for that we infer. We seek meaning: the ignorance objects, gives lies: those become all our better reasons; Truth in')
+status = api.PostUpdate('order has one order and the same, otherwise common functions follow; chance consists of logic; itself it applies and attempts. Understanding')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
