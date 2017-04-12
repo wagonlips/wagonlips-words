@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('blind, perfect and true; False choice follows for the infinite sum. As cognitions find order, functions take form; From divided propositions')
+status = api.PostUpdate('and the logical form that rests under numbers. Which are proper representations of cause and of effect? Reduce them to logic, we render them')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
