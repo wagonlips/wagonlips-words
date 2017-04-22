@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('the content was a perception: we found a mark to call our time before the logic; No, identity cogitated. The highest words were least; Human')
+status = api.PostUpdate('deduced words into valid lies of form with intuition\'s association of portions, consequences, the conception thought upon the world\'s unity:')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
