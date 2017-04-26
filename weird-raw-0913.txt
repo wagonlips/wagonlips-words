@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('thought on commonly cogitated space, time: imagination, reality produced a kind of sensuous mind. Our paradox has struck now; all our senses')
+status = api.PostUpdate('changes affected in our own geometry! and act or fact, thus we appear; so science thought. Given determinations, one conception, perceptions')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
