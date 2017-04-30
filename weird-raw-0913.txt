@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('\'SO betray their subsumptions. When will our lies apply?\' \'Logic, our formal words will lie worse.\' With a dull intuition, narrow-minded and')
+status = api.PostUpdate('with manner and method, would delineate reduced, limited unless, but however, the pure homogeneous sphere extended these. In an explanation:')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
