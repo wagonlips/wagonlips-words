@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('followed? They ascend to the sphere of the true way, we descend now; unchangeable, we render our changes on things empty and homogeneous and')
+status = api.PostUpdate('Although the theory\'s truth means the possible purpose called, and we are mean to be it, but may we not leave or remain upon the things that')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
