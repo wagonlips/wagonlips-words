@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('these empty transcendental lies. For means or a thing of pure misunderstanding that medium of meaning, and our truth\'s fact\'s own true task.')
+status = api.PostUpdate('synthesis, what depends on space and is truth even in a rule! The propositions were not of us, and not the latter when those laws were shown')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
