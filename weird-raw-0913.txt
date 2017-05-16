@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('states of understanding pass between, alternating ways from my beginning, proceed, we lie, this proof of it-to a mere condition. We cognized')
+status = api.PostUpdate('necessary end to an arbitrary truth, we find impossible objects alone, see how things were, this imagination lies to them through a void our')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
