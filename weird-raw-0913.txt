@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('only we shall easily pass on the quality of us, common law, to our last effects among causes: to some great objects, together we have sought')
+status = api.PostUpdate('Under every superfluous quality, an exercise of unity first generated the truth. Annihilate! O! upon the pure moment now turn it, take them!')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
