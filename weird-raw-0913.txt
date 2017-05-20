@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('Under every superfluous quality, an exercise of unity first generated the truth. Annihilate! O! upon the pure moment now turn it, take them!')
+status = api.PostUpdate('matter or form, reciprocal void of virtue or vice or law or all these sensuous acts as we imagine reciprocally: It is requisite reciprocity!')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
