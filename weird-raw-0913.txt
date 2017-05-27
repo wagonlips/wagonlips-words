@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('fact we have given substance to the forces of our notion, we have, unless true, posited in doubt the limits and laws of objects as cogitated')
+status = api.PostUpdate('in possible time, were time possible, impossible time. Perception presents reason to the simple theory of regard and renders us real, but in')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
