@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('in possible time, were time possible, impossible time. Perception presents reason to the simple theory of regard and renders us real, but in')
+status = api.PostUpdate('perceive: mere perceptions cannot be the things created. The not possible, never possible dreams of change produced the true empirical time,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
