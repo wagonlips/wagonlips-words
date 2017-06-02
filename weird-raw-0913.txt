@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('fulfils (what follows?) With little, lame, proper, logical, able, pure, we represent that science is made real: say it. Their objects based,')
+status = api.PostUpdate('be, belong, and employ, and all doctrine, their things and case and call. All things peculiar, present, proud, wit; the object that follows,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
