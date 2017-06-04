@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('chosen void; conceptions all in ideality without writings that think: phenomena and noumena; reason\'s things; division was given as it would')
+status = api.PostUpdate('must discover nature to know it! And a formula contains reality general, that presents the principle still. And when logical reason follows,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
