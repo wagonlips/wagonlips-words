@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('that former time is formal time. What system gives the rules of reason, the propositions, the sense of it? Naturally, lying wit, their world')
+status = api.PostUpdate('and never be our cause? Given, then, confined, truth, confused? We may not speak noogony to our own eyes: we find they contradict space, but')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
