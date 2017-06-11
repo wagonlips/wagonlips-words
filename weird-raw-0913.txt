@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('the perfect-logical monads? False: substance is the first true fact. What reason seems to be beyond our faculty? And yet we forbid our cubic')
+status = api.PostUpdate('in our substratum we may yet call our functions to the place. Least will serve space. What determined, we assume, to have understood, known,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
