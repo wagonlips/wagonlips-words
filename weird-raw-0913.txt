@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('-a motion misled. The one still perceived forces the imagination. Intuition follows reflection. Laws according to all no truth can determine')
+status = api.PostUpdate('awakened. Nature is knowledge. The propositions can be division, both sophisms and the nothingness. Avoid the illusions; no source but sense')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
