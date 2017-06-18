@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('their dialectical illusions and examine with misunderstanding not. They explain to them now with material pure, as will the words divide, so')
+status = api.PostUpdate('perception of these! One\'s duty: not that, but so singular, all with reality, lost in one vain search; but, for reason\'s rule, things of all')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
