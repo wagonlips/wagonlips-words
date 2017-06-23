@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('compound, exponent, under a world makes a judgement: all indifference does appear and ideas reach to extend. How all\'s to one thing thought!')
+status = api.PostUpdate('paradoxical, above-mentioned. Follow a comprehension of those descending. Never fully does their grand philosophy stand with reason. Proper!')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
