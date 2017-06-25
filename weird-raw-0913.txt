@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('their cause? Our rules appear, least valid; perceive, purity, perpetual pain, principle, for a rational subject stands and follows - obtain,')
+status = api.PostUpdate('thing of things, mere thoughts all, reckoned simple, poorest subjects. Analysis, which, which is the purpose? Simplicity themselves. What is')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
