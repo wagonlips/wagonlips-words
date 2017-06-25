@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('thing of things, mere thoughts all, reckoned simple, poorest subjects. Analysis, which, which is the purpose? Simplicity themselves. What is')
+status = api.PostUpdate('soul\'s not shown, know us; rational senses discover-in thought beyond identical beings-lurks a logical thing. Closer, there is one. Mistaken')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
