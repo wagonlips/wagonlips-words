@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('soul\'s not shown, know us; rational senses discover-in thought beyond identical beings-lurks a logical thing. Closer, there is one. Mistaken')
+status = api.PostUpdate('embarrass them, diminished; explain degrees beyond a quantum; become a contradiction; consider what existence means when Phaedo follows; the')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
