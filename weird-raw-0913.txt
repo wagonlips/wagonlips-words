@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('and sophistry of the kind, explanation reveals reason, and least rational mind- A cause exposed the theory of, that logic stands against the')
+status = api.PostUpdate('in discord- The crucible of cosmical treatment was present, thus different and not present in Reason\'s argument. The self and soul and being')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
