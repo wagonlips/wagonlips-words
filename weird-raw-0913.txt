@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('the justice, the regression, the total progress, all in synthesis- this, all this completeness, this, all this importance, call Nature while')
+status = api.PostUpdate('nature, | true, deceived our belief, subject and object, compelled us, | conflict on cause of ignorance. THE hidden fought beyond thesis and')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
