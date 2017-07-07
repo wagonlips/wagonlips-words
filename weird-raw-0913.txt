@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('abstraction of transcendental proof, | a second beginning but also real, looked beyond the insight, preceded the statement, | of supposition')
+status = api.PostUpdate('cogitate, | in the manner and the moment of totality: the account, never alleged by the proofs | of an intuition added to the perception, or')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
