@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('The principles are evident, and the subjects exist as if they were real, their substantial limits; but true. We supposed the question not to')
+status = api.PostUpdate('let them prove: their proof was failure; change called on us, idea lost, thought found the reason. Absolute aim in sum a clear thesis knows.')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
