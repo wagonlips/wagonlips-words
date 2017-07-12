@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('And we must, from far higher inaction\'s act. With promise we admit need. When we proceed we produce a new act. And its rules are objects not')
+status = api.PostUpdate('seek the motions of a system, not freedom. These laws, these fancy IDEAS have evolved existence! Although you could imagine, they would not!')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
