@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('seek the motions of a system, not freedom. These laws, these fancy IDEAS have evolved existence! Although you could imagine, they would not!')
+status = api.PostUpdate('of total and of completeness? We are allowed, thus we are liberty, first and certain; Connect the objects and the arguments yet. We FIND and')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
