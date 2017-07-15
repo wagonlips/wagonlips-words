@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('argument declared, ontological motions, fictions of proof, and the other thesis that falls by the rise. What could the world hold, more full')
+status = api.PostUpdate('transitory, transcendental, it aims and finds unity in uniformity. Based on prejudices, preceded by fate are the forces of conflict that the')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
