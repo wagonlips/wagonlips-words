@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('only the knowledge does not avow need: Soul, power of ideas, being quite equal cases, perceive speculative experience where it arises, being')
+status = api.PostUpdate('sciences; conditioned by senses. Humble, we granted judgements, we heard of laws, ideas and all the ethics that explain this world of rules;')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
