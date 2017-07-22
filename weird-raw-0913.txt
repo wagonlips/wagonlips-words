@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('the ideas know which thing: false conceptions observed in succession, proved true, as we reverse, to some unknown length. The Self presented')
+status = api.PostUpdate('rules and things of reason without intuition that Certain Forms connected the stars. We discover a world in which time was a term, it seems,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
