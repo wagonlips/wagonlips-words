@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('sophist, with mocking requirement, arguments infinite and assertions absurd and unseen) can now convince with illusion while there lay those')
+status = api.PostUpdate('the first ideas not well regarded, the universe arises then from pure phenomena. Aesthetic (that follows antithesis with dilemma, disparata,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
