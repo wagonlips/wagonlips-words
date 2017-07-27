@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('itself, contains things from beyond our world. In synthesis with perception and the understanding of the Axiom of Phenomena TRUTH has called')
+status = api.PostUpdate('parts, these parts belong therefore to the collective beginning, the one when they admit. The mind demands limits really limited and attains')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
