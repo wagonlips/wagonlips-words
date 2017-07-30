@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('beyond all that hope of the merits to first attain. Had arguments, laws, these events, these causes advanced a natural reason\'s statement of')
+status = api.PostUpdate('common existences! Was embarrassing principle and proposition found and held between supposition? We exist, we arise, we engage fact, ideas,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
