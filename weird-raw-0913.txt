@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('does everything for nothing. TIME begins now; now, sensuous in form, a place proceeds power. Which effect influences! Which contradiction of')
+status = api.PostUpdate('permit words, he recognizes therefore, all of our absurd ideas valid. We satisfied them that we had determined his power pure indeed, but it')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
