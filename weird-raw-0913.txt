@@ -9,7 +9,7 @@ k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', 
 import twitter
 
 
-status = api.PostUpdate('permit words, he recognizes therefore, all of our absurd ideas valid. We satisfied them that we had determined his power pure indeed, but it')
+status = api.PostUpdate('of purpose with causes on causes. The ground will yield but we as perfect as simple motives stand and consider: effect is cause; the actions')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
