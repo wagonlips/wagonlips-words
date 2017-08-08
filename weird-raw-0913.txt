@@ -11,7 +11,7 @@ import twitter
 A new former spite
 
 
-status = api.PostUpdate('laws, it is the principle of kind, the explanation aims, the idea and the mind attain the rule! A pair of rules would not destroy us, we are')
+status = api.PostUpdate('abyss or comfort, minor limits or major modes, or forms of those data that quite contrary ideas may consider: it is the predicates conceived')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
