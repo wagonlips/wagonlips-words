@@ -11,7 +11,7 @@ import twitter
 A new former spite
 
 
-status = api.PostUpdate('already and hypostatized, objectivized, personified, a reason, justly given, so true a room, so distributive a view contains an inconsistent')
+status = api.PostUpdate('conditions have given value to the modes of my mind, we have, through reason, thought to see the primal case and basis of nature as advanced')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
