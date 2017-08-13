@@ -11,7 +11,7 @@ import twitter
 A new former spite
 
 
-status = api.PostUpdate('conditions have given value to the modes of my mind, we have, through reason, thought to see the primal case and basis of nature as advanced')
+status = api.PostUpdate('in the new proposition, and out of the nature of need. The omnipotence seems to give a speculative objective and serves us thus, although no')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
