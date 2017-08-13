@@ -11,7 +11,7 @@ import twitter
 A new former spite
 
 
-status = api.PostUpdate('abyss or comfort, minor limits or major modes, or forms of those data that quite contrary ideas may consider: it is the predicates conceived')
+status = api.PostUpdate('hypothesis, first considered, once regarded; originarium of the human power merely considered us, deduced from an ideal, space. Not purpose,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
