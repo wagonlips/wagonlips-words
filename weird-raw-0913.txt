@@ -11,7 +11,7 @@ import twitter
 A new former spite
 
 
-status = api.PostUpdate('in the new proposition, and out of the nature of need. The omnipotence seems to give a speculative objective and serves us thus, although no')
+status = api.PostUpdate('to actual self-contradictory principles of existence and reality. And I have denied that absurd hope is tautology, that miserable justice is')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
