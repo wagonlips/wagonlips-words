@@ -11,7 +11,7 @@ import twitter
 A new former spite
 
 
-status = api.PostUpdate('hypothesis, first considered, once regarded; originarium of the human power merely considered us, deduced from an ideal, space. Not purpose,')
+status = api.PostUpdate('already and hypostatized, objectivized, personified, a reason, justly given, so true a room, so distributive a view contains an inconsistent')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
