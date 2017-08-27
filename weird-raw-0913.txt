@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('When will such matter finally see our nature? Machines apodeictic have required, have desire, and all is found in air, applied, derived from')
+status = api.PostUpdate('with the principle of reason. It is inferred from hypothesis, as the matter is examined. It is founded in analysis, as the logic is erected.')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
