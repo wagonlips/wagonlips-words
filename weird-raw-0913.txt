@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('former the latter? A strange endeavour . . . . A propensity for difficulty, causes, assertions, contagious intuitions, peculiar dispositions')
+status = api.PostUpdate('would we be always determining the geometry to follow through on the being of nothing- quanta- What is- the essential schema? Reason. Is the')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
