@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('practical opinions, actually admissible, beyond what we thought we must and discussed, all in truth and dispute, simple proof. We are there,')
+status = api.PostUpdate('proofs, prudential truth or essential, true or new view, that leads beyond the nature of notions, with transcendental laws, with trivial and')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
