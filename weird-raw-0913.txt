@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('that action, that fact, thus we deduced the answer, peculiar nature, our power! decided science, was given, would determine, distinguish the')
+status = api.PostUpdate('they are first ignorant; they are secondly to weaken us and want? What? That our kinds be; our minds assign, whole and immutable. Not in all')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
