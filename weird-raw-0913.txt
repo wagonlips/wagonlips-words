@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('fancy deal was fixed for Bingley, Young Bingley: then hope, when we tremble in the larger pity. Their triumph was done now; all our efficacy')
+status = api.PostUpdate('ready shame all formed in the other\'s, curious! and then they were amused; so time began. When compliment, two hours done, their witticisms\'')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
