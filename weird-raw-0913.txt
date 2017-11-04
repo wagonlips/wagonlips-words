@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('morrow of sorrow and hope-crushing hug-wishing word. Stay with us as they expose what they hide as we get or forget or let the waking world!')
+status = api.PostUpdate('Answered, honoured, she wondered; of a valuable hope but of a sort not preferred, not one that hinted at filial guilt and tried and cried on')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
