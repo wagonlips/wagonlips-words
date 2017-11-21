@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('They teased:- for all their intolerable allusions civil relations make resolutions. How Time\'s consideration on this day fair, without their')
+status = api.PostUpdate('the sisters there that wait and speak a bad politeness! In their absence:- from all their conversation, violent smiles stand out in silence.')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
