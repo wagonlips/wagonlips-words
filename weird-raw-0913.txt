@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('The Happiest Adventure Dear was mature but short, there the friends did not depart; they agreed upon the heart, lamenting for the flattering')
+status = api.PostUpdate('little cousin- Sir Friendly William- Begin a friendship for the future- Years! They will not evade the promise, then they see what they see.')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
