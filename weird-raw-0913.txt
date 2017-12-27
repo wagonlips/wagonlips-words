@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('Your companions shall borrow some more- your parties no more! Freckled chaperon voluntarily we had a good long laugh, pleasant little jokes!')
+status = api.PostUpdate('parents! Which answer of a sister that spoke no more- no more beyond your sorry sentiments! No more! Your dear eldest daughter refusing all!')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
