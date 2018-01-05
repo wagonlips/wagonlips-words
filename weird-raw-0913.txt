@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('he knew so certainly that the world was perfect and strange and impossible, to one astonished Pemberley! The matter was like wholly charming')
+status = api.PostUpdate('who still surprised, was but the Gardiner of Darcy; but you are uncle to the one we passed so probably, and thus are better than the person,')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
