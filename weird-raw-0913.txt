@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('unlike being in a shire- Your pity- my pride!- Seeing and wishing away, and wish to imagine happiness and friends and come what may- of that')
+status = api.PostUpdate('spirits- and all your parade of half-opened smiles- your balls, in rapture of hope recollected, then housemaids, Oh! A bride for a fortnight')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
