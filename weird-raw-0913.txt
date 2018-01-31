@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('Darcy Darcy, your speech is to me like two unwelcome lips of man, that yet, beyond a sorry time, the grieve, ungracious gardiner bore to his')
+status = api.PostUpdate('years of my night; then even with the proud purpose of nothing I find them again- two perfectly fine ideas, not compromised by the truth! To')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
