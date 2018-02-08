@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('happiness! How warm a glow, how sweet a hope! How barbarous a voice of spite! How beautiful a kindness- but far too little- how reasonable a')
+status = api.PostUpdate('hours, proved useful, if stiffly, indeed, the dupe went down. Which unforgiving shrubbery pretended to be put on that fortunate, indifferent')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
