@@ -12,7 +12,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('was it not bitterness, (was it not frankness,) that formed my sense before that remembrance, to repeat the dread words after those forgotten')
+status = api.PostUpdate('others dwelt on the struggles of the lovers, and on your own, unmarked-- allow, in vanity! Was it not gravity, that, on that ill happiness--')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
