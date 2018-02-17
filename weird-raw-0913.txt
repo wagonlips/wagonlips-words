@@ -8,11 +8,23 @@ b2> (x26) <climagic> ssh -t you@homeaddr 'ssh you@192.168.1.5' # In one command,
 k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', '65', '65')
 import twitter
 
+In [1]: import textblob
+
+In [2]: from textblob import TextBlob
+
+Python uses ASCII encoding by default, which is annoying. If you want to change it permanently, find and edit site.py file, search for def setencoding() and few lines below change encoding = "ascii" to encoding = "utf-8". Bye, bye default ASCII encoding.
+sudoedit /usr/lib/python2.7/site.py
+
+api = twitter.Api(consumer_key='consumer_key',
+                      consumer_secret='consumer_secret',
+                      access_token_key='access_token',
+                      access_token_secret='access_token_secret')                      
+
 A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('others dwelt on the struggles of the lovers, and on your own, unmarked-- allow, in vanity! Was it not gravity, that, on that ill happiness--')
+status = api.PostUpdate('doubt, convinced of truth, and by the hope of your conversation. Vexed in memory, with a suspicion I knew you half considered; Gradually the')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
