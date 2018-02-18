@@ -6,6 +6,12 @@ for i in chunk*; do tempname=`echo $i | sed 's/\b[[:digit:]]\{1\}\b/00&/'`; mv $
 b2> (x26) <climagic> ssh -t you@homeaddr 'ssh you@192.168.1.5' # In one command, ssh to an internal host on your private network through a gateway host.
 
 k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', '65', '65')
+
+An equation of the form ax+b==cx+d has:
+exactly one solution when a != c,
+no solutions when a == c and b != d
+and infinitely many solutions when a == c and b == d.
+
 import twitter
 
 In [1]: import textblob
