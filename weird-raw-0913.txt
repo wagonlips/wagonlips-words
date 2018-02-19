@@ -7,9 +7,9 @@ b2> (x26) <climagic> ssh -t you@homeaddr 'ssh you@192.168.1.5' # In one command,
 
 k-x=753+?sum javascript:PopupWindow ('Community', '2016/11/15', '608', 'Janus', '65', '65')
 
-An equation of the form ax+b==cx+d has:
+An equation of the form ax+b==cx+d has
 exactly one solution when a != c,
-no solutions when a == c and b != d
+no solutions when a == c and b != d,
 and infinitely many solutions when a == c and b == d.
 
 import twitter
@@ -30,7 +30,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('reply for the love-life, the extreme men in a reasonable joy-- stood on the determined fears of these tears that allowed and assured in this')
+status = api.PostUpdate('in a distracted deference, this silent hope spoke of spite, always on virtue-- stood on the disgusted words of every heart that gave for, in')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
