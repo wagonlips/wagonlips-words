@@ -30,7 +30,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('in a distracted deference, this silent hope spoke of spite, always on virtue-- stood on the disgusted words of every heart that gave for, in')
+status = api.PostUpdate('sincerely-silly smiles of truth, with happiness, and consequence, and intelligence, before the serious doubts of the long days that deceived')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
