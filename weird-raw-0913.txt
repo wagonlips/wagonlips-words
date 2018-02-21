@@ -30,7 +30,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('sincerely-silly smiles of truth, with happiness, and consequence, and intelligence, before the serious doubts of the long days that deceived')
+status = api.PostUpdate('familiarity; and from an extravagant form, that, like its vulgar society, arising, bought an elegant economy not without comfort, suffered a')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
