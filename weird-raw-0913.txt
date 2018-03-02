@@ -30,7 +30,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('Omniscient! unlike the ancient spirits that walk beyond my dreary pavement-- (Impeachment! where spits not on even one cold stone)-- my view')
+status = api.PostUpdate('as you see, upon the figure, upon the twist, and all the way across, among polite remarks, very blue for who the whisper stops-- always you.')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
