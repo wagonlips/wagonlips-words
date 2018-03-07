@@ -30,7 +30,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('tried by roses dying in the beautiful "snow that straps like tears of ice on Windsor Place," have looked after the cold pieces of his heart,')
+status = api.PostUpdate('unhappy scheme: and then, as if in astonishment of that approval, two boarders-- two nicely fat twins-- majestic solicitors, made only to be')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
