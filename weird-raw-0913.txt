@@ -30,7 +30,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('Red is sorry to inform, his unfortunate roast was raw, and mice and things you must not speak are lying to the beef-- I confess that Jellyby')
+status = api.PostUpdate('about, a vacant mouth-- a higher fish. Peepy, I do not submit-- I teach-- for Puss, who does for ways from whispers of the quiet word, where')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
