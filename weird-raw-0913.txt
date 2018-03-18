@@ -30,7 +30,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('shabby one for all we bought was sold, and all we appeared to do was done-- huddled, then, as the shop birds, sing with the curious pickle--')
+status = api.PostUpdate('day of admiration, may please (Like cobwebs in a gnarled bundle) a pleasure caught up in a muddle. And liberty was genuine but seeing is the')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
