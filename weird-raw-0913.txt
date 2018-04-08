@@ -26,6 +26,12 @@ api = twitter.Api(consumer_key='consumer_key',
                       access_token_key='access_token',
                       access_token_secret='access_token_secret')                      
 
+['', '/usr/bin', '/usr/local/lib/python2.7/dist-packages/pytz-2012h-py2.7.egg', '/usr/local/lib/python2.7/dist-packages/pip-1.2.1-py2.7.egg', '/usr/lib/python2.7', '/usr/lib/python2.7/plat-linux2', '/usr/lib/python2.7/lib-tk', '/usr/lib/python2.7/lib-old', '/usr/lib/python2.7/lib-dynload', '/usr/local/lib/python2.7/dist-packages', '/usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg-info', '/usr/lib/python2.7/dist-packages', '/usr/lib/python2.7/dist-packages/PIL', '/usr/lib/python2.7/dist-packages/gst-0.10', '/usr/lib/python2.7/dist-packages/gtk-2.0', '/usr/lib/pymodules/python2.7', '/usr/lib/python2.7/dist-packages/ubuntu-sso-client', '/usr/lib/python2.7/dist-packages/IPython/extensions', '/usr/local/lib/python2.7/dist-packages/textblob']
+
+PYTHON_STUFF_PATH = '/home/sean/python-stuff/'
+  if not PYTHON_STUFF_PATH in sys.path:
+    sys.path.append(PYTHON_STUFF_PATH)
+
 A new former spite
 
 "People tend to mistake repetition for truth."
