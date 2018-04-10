@@ -18,6 +18,8 @@ In [1]: import textblob
 
 In [2]: from textblob import TextBlob
 
+In [3]: import sys
+
 Python uses ASCII encoding by default, which is annoying. If you want to change it permanently, find and edit site.py file, search for def setencoding() and few lines below change encoding = "ascii" to encoding = "utf-8". Bye, bye default ASCII encoding.
 sudoedit /usr/lib/python2.7/site.py
 
@@ -36,7 +38,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('-- and many things which feared-- (Gentlemen-- and a picturesque heart!) lived among their rather busy letters, and, so, nearly, became your')
+status = api.PostUpdate('became the names-- the knowledge-- the noise-- his little box of manner that was meaning-- the skirts, fancy spectacles of children by night')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
