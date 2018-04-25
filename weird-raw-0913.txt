@@ -38,7 +38,7 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('shovel of shadow-- with the blinds of time-- a bottle of peeps-- and the windows of wisdom into a wild Krook\'s sleeves. My lawyer, from that')
+status = api.PostUpdate('bitter and old. It was a new woman, I see, who marked ashes upon me: and the poverty-- the lady of the spectral tea turns within my wall the')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
