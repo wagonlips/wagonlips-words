@@ -38,7 +38,10 @@ A new former spite
 
 "People tend to mistake repetition for truth."
 
-status = api.PostUpdate('stands sudden upon me, speaking of connexions, or where my soul, my mouth, dirty person!-- was writing (Ah! so my offer would enlighten, and')
+Instructions for joining automatically sent
+                   verb    adverb    verb
+
+status = api.PostUpdate('tidings from choruses shining, like witnesses, reconciled to her conversation the people of the summonses, and the day drunken surgeon\'s way')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
