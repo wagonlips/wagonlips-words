@@ -41,7 +41,7 @@ A new former spite
 Instructions for joining automatically sent
                    verb    adverb    verb
 
-status = api.PostUpdate('of the cold world, with its unmistakable hair, days, in the wind of a syllable, upon their quickness-- a distance. Life was so much prettier')
+status = api.PostUpdate('and in a mouth not death will spoil the joke-- dear housekeeper, for the handsome servants and service of my silent years! The simpering day')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
