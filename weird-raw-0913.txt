@@ -41,7 +41,7 @@ A new former spite
 Instructions for joining automatically sent
                    verb    adverb    verb
 
-status = api.PostUpdate('delight by our Guppy, to those good who suddenly would escape from life and theatre spoiled by their heart\'s education, and that voice, that')
+status = api.PostUpdate('with an uneasy husband, as of a perseverance taken, to express us-- It was a man and a laugh IV Of who in agreement should I-- and feared in')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
@@ -54,6 +54,21 @@ Flat 18C New Mansion 2-8 New Street Sheung Wan Hong, Kong
 Nothing is so spiritual as imagination.
 
 The truth is more complicated and not squarely on the president’s side.
+
+Supervised Learning: Classification/Regression
+m = number of training examples
+x = "input" variable/features
+y = "output" variable/"target" variable
+(x,y) one training example
+(x(i),y(i)) - ith training example
+Regression deals with potentially infinite data
+Classification deals with a finite number of values
+theta zero and theta one
+Cost function
+Squared error function
+We want to minimize this function.
+:= assignment 
+Gradient descent automatically takes smaller steps as we approach local minimum.
 
  You see, I consider that a man's brain originally is like a little empty
  attic, and you have to stock it with such furniture as you choose.  A fool
