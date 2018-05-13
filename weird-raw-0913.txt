@@ -41,7 +41,7 @@ A new former spite
 Instructions for joining automatically sent
                    verb    adverb    verb
 
-status = api.PostUpdate('with an uneasy husband, as of a perseverance taken, to express us-- It was a man and a laugh IV Of who in agreement should I-- and feared in')
+status = api.PostUpdate('honour? And yet it will not be (that modesty) took from us in life-- in love-- which considers each minute before you-- but then madly, pray')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
@@ -69,6 +69,7 @@ Squared error function
 We want to minimize this function.
 := assignment 
 Gradient descent automatically takes smaller steps as we approach local minimum.
+A one column matrix is a vector.
 
  You see, I consider that a man's brain originally is like a little empty
  attic, and you have to stock it with such furniture as you choose.  A fool
