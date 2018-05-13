@@ -70,6 +70,13 @@ We want to minimize this function.
 := assignment 
 Gradient descent automatically takes smaller steps as we approach local minimum.
 A one column matrix is a vector.
+Unless otherwise noted, vectors are 1-indexed.
+Upper case letters refer to matrices. Lower case letters refer to vectors.
+A scalar object is a single value; neither a matrix or a vector.
+Rows first, then columns.
+If you multiply a matrix by a vector you get a vector.
+The number of columns in the matrix must match the number of rows in the vector in order to multiply.
+And the number of rows in the resulting vector will be the same number of rows in the original matrix.
 
  You see, I consider that a man's brain originally is like a little empty
  attic, and you have to stock it with such furniture as you choose.  A fool
