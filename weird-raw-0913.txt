@@ -77,6 +77,44 @@ Rows first, then columns.
 If you multiply a matrix by a vector you get a vector.
 The number of columns in the matrix must match the number of rows in the vector in order to multiply.
 And the number of rows in the resulting vector will be the same number of rows in the original matrix.
+When multiplying matrices by matrices the number of columns in the first matrix must match the number of rows in the second.
+An m x n matrix multiplied by an n x o matrix results in an m x o matrix.
+When multiplying matrices, A x B != B x A (Not commutative)
+(A∗B)∗C=A∗(B∗C) Matrices are associative.
+
+[1 0 0]
+|0 1 0| <--The identity matrix is useful, like multiplying by 1, but for matrices.
+[0 0 1]
+When multiplying the identity matrix after some matrix (A∗I), the square identity matrix's dimension should match the other matrix's columns. 
+When multiplying the identity matrix before some other matrix (I∗A), the square identity matrix's dimension should match the other matrix's rows.
+In Octave: 
+% Initialize a 2 by 2 identity matrix
+I = eye(2)
+% Initialize random matrices A and B 
+A = [1,2;4,5]
+B = [1,1;0,2]
+
+% Initialize a 2 by 2 identity matrix
+I = eye(2)
+
+% The above notation is the same as I = [1,0;0,1]
+
+% What happens when we multiply I*A ? 
+IA = I*A 
+
+% How about A*I ? 
+AI = A*I 
+
+% Compute A*B 
+AB = A*B 
+
+% Is it equal to B*A? 
+BA = B*A 
+
+% Note that IA = AI but AB != BA
+
+If your matrix is not square it cannot have an inverse. 
+Singular and degenerate matrices (vaguely described as being too close to zero) also cannot have an inverse.
 
  You see, I consider that a man's brain originally is like a little empty
  attic, and you have to stock it with such furniture as you choose.  A fool
