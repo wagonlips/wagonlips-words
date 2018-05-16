@@ -41,7 +41,7 @@ A new former spite
 Instructions for joining automatically sent
                    verb    adverb    verb
 
-status = api.PostUpdate('whisper? III Do all of us know, why, as the laughing promise of the joyful way-- so the bone of the word would come, which plainly sobbed in')
+status = api.PostUpdate('it ever brought the contemplated truth, and no more, that with a fatherly smile did over us walk as deuce of the sunlight over the monstrous')
 
 glute bridges, 4 point kneels and side planks on your knees.
 
@@ -115,6 +115,10 @@ BA = B*A
 
 If your matrix is not square it cannot have an inverse. 
 Singular and degenerate matrices (vaguely described as being too close to zero) also cannot have an inverse.
+
+u [5;1;9]
+v [3;1;5]
+(5*3) + (1*1) + (9*5) = 61
 
  You see, I consider that a man's brain originally is like a little empty
  attic, and you have to stock it with such furniture as you choose.  A fool
