@@ -120,6 +120,14 @@ u [5;1;9]
 v [3;1;5]
 (5*3) + (1*1) + (9*5) = 61
 
+Feature scaling involves dividing the input values by the range (i.e. the maximum value minus the minimum value) of the input variable.
+Mean normalization involves subtracting the average value for an input variable from the values for that input variable.
+J(theta) should decrease with every iteration if gradient descent is working.
+If your learning rate alpha is small enough, then J(theta) should decrease on every iteration.
+If your alpha is too small, gradient descent may take too long.
+For the "normal equation" theta = (X[transpose] X)-1 X[transpose]y
+Normal equation works best when n < 10,000. (n = features)
+
  You see, I consider that a man's brain originally is like a little empty
  attic, and you have to stock it with such furniture as you choose.  A fool
  takes in all the lumber of every sort he comes across, so that the knowledge
