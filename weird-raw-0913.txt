@@ -127,6 +127,7 @@ If your learning rate alpha is small enough, then J(theta) should decrease on ev
 If your alpha is too small, gradient descent may take too long.
 For the "normal equation" theta = (X[transpose] X)-1 X[transpose]y
 Normal equation works best when n < 10,000. (n = features)
+Logistic Regression is a classification algorithm.
 
  You see, I consider that a man's brain originally is like a little empty
  attic, and you have to stock it with such furniture as you choose.  A fool
